@@ -3,7 +3,7 @@
 Developed interactive Power BI dashboards to visualize key business or metrics and support data-driven decision-making.
 
 ## Download Dashboard
-[Download Dashboard](Custom_SQL.pbix)
+[Mutidomain Dashboard](Custom_SQL.pbix)
 This file provides the **complete interactive dashboard**, allowing us to explore all insights, KPIs, and visualizations.
 
 ## Dashboard Screenshots
