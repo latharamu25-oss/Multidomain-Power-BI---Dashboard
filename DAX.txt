@@ -1,0 +1,18 @@
+Scheduled Plates L3 = 
+VAR Site = SELECTEDVALUE('Lane Performance'[sitename])
+VAR Location = SELECTEDVALUE('Lane Performance'[Location Group])
+VAR Multiplier =
+    SWITCH(
+        TRUE(),
+        Site = "India" && Location = "Line 3 Production", 70,
+        Site = "India" && Location = "Line 4 Production", 62,
+        Site = "India" && Location = "Line 5 Production", 50,
+        Site = "Nepal" && Location = "Line 1 Production", 60,
+        Site = "Nepal" && Location = "Line 2 Production", 63,
+        Site = "Nepal" && Location = "Line 3 Production", 55,
+        Site = "Nepal" && Location = "Line 4 Production", 63,
+        Site = "Nepal" && Location = "Line 5 Production", 63,
+        1
+    )
+RETURN
+    Multiplier
