@@ -9,7 +9,7 @@ This file provides the **complete interactive dashboard**, allowing us to explor
 ## Dashboard Screenshots
 
 ### Bank Churn
- ![Bank Churn Details](<Bank Churn-1.PNG>)
+ ![Bank Churn Details](<Bank Churn.PNG>)
 
 ### Dairy Production
 ![Dairy Production Analysis](<Dairy Production.PNG>)
@@ -18,7 +18,7 @@ This file provides the **complete interactive dashboard**, allowing us to explor
 ![Retail Sales Dashboard](<Retail Sales Dashboard.PNG>)
 
 ### Sports Products Sales Analysis
-![Sales Analysis](<Sports Products Sales Analysis-1.PNG>)
+![Sales Analysis](<Sports Products Sales Analysis.PNG>)
 
 ## Project Overview
 
